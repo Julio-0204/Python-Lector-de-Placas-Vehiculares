@@ -1,8 +1,4 @@
 # 🚗 Python - Lector de Placas Vehiculares
-
-Este proyecto utiliza **Python**, **OpenCV** y **Tesseract OCR** para detectar y reconocer el texto de las placas vehiculares a partir de imágenes.  
-Su objetivo es automatizar el proceso de lectura de placas mediante técnicas de **procesamiento digital de imágenes** y **reconocimiento óptico de caracteres (OCR)**.
-
 ---
 
 ## 👨‍🎓 Estudiantes
